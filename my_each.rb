@@ -7,4 +7,5 @@ def hello(array)
   end
   collection
 end
+array =[]
 hello(array) {|i| "Hello #{i} what's up?"}
